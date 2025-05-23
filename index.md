@@ -28,7 +28,7 @@ Welcome to the official page of our research consortium formed by leading univer
 - Dr.sc. S. Swayamjyoti – RWTH Aachen
 - Dr. Paolo Tiso – ETH Zurich
 - Prof. Paul Breedveld – TU Delft
-- Dr. Dr. Leslie Zachariah - TU Delft
+- Dr. Leslie Zachariah - TU Delft
 - Prof. Andrea Bernasconi – Politecnico di Milano
 - Prof. Masarati Pierangelo – Politecnico di Milano
 - Prof. Serena Graziosi - Politecnico di Milano
