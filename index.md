@@ -25,7 +25,8 @@ Welcome to the official page of our research consortium formed by leading univer
 **Focus:** [One-sentence research challenge or vision]  
 **Principal Investigators:**
 - Prof. Bernd Markert - RWTH Aachen
-- Dr.sc. S. Swayamjyoti – RWTH Aachen
+- Dr. Franz Bamer – RWTH Aachen
+- Dr. sc. S. Swayamjyoti – RWTH Aachen
 - Dr. Paolo Tiso – ETH Zurich
 - Prof. Paul Breedveld – TU Delft
 - Dr. Leslie Zachariah - TU Delft
