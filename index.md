@@ -11,9 +11,9 @@ Welcome to the official page of our research consortium formed by leading univer
 
 <table>
   <tr>
+    <td><img src="assets/images/rwth-logo.png" alt="RWTH Aachen" width="120"/></td>
     <td><img src="assets/images/eth-logo.png" alt="ETH Zurich" width="120"/></td>
     <td><img src="assets/images/tudelft-logo.png" alt="TU Delft" width="120"/></td>
-    <td><img src="assets/images/rwth-logo.png" alt="RWTH Aachen" width="120"/></td>
     <td><img src="assets/images/polimi-logo.png" alt="Politecnico di Milano" width="120"/></td>
     <td><img src="assets/images/chalmers-logo.png" alt="Chalmers" width="120"/></td>
   </tr>
@@ -24,11 +24,16 @@ Welcome to the official page of our research consortium formed by leading univer
 **Title:** [Project Title]  
 **Focus:** [One-sentence research challenge or vision]  
 **Principal Investigators:**
-- Prof.  – ETH Zurich
-- Prof. [Name] – TU Delft
-- Prof. [Name] – RWTH Aachen
-- Prof. [Name] – Politecnico di Milano
-- Prof. [Name] – Chalmers
+- Prof. Bernd Markert - RWTH Aachen
+- Dr.sc. S. Swayamjyoti – RWTH Aachen
+- Dr. Paolo Tiso – ETH Zurich
+- Prof. Paul Breedveld – TU Delft
+- Dr. Dr. Leslie Zachariah - TU Delft
+- Prof. Andrea Bernasconi – Politecnico di Milano
+- Prof. Masarati Pierangelo – Politecnico di Milano
+- Prof. Serena Graziosi - Politecnico di Milano
+- Prof. Kristina Wärmefjord – Chalmers University of Technology
+- Prof. Rikard Söderberg - Chalmers University of Technology
 
 ## Objectives
 
