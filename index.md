@@ -23,7 +23,7 @@ Welcome to the official page of our research consortium formed by leading univer
 
 **Title:** [Project Title]  
 **Focus:** [One-sentence research challenge or vision]  
-**Principal Investigators:**
+**Principal Investigators (co-PI / collaborators):**
 - Prof. Bernd Markert - RWTH Aachen
 - Dr. Franz Bamer – RWTH Aachen
 - Dr. sc. S. Swayamjyoti – RWTH Aachen
